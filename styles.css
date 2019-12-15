@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: rebeccapurple;
+}
+
+.timeDisplay {
+    font-size: 50px;
+    font-family: monospace;
+}
+
+.headerQ {
+    font-size: 50px;
+    font-family: cursive;
+}
+
+.typeSelector {
+    font-family: monospace;
+}
